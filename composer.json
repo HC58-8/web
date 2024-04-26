@@ -1,0 +1,8 @@
+{
+    "name": "harou/projet",
+    "require": {
+        "twbs/bootstrap": "^5.3",
+        "ext-pdo": "*",
+        "symfony/skeleton": "*"
+    }
+}
